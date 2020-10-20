@@ -22,6 +22,9 @@ body{
     
 }
 
+.rocket:hover {
+opacity: 70%;
+}
 .mars:hover {
     opacity: 70%;
 }
@@ -29,6 +32,7 @@ body{
     width: 400px;
     height: auto;
     margin-right: 300px;
+    
 
 }
 .div1 {
